@@ -21,7 +21,7 @@
 <span id="a">Arcade-Game@sbajwa</span>:<span id="b">~</span><span id="c">$</span> cd Arcade-Game/<a href="https://arcade-game-sbajwa.herokuapp.com/"> Demo </a>
 <span id="a">RSS-Feed@sbajwa</span>:<span id="b">~</span><span id="c">$</span> cd RSS-Feed/<a href="https://rss-feed-sbajwa.herokuapp.com/"> Demo </a>
 <span id="a">SQL-Logs-Analysis@sbajwa</span>:<span id="b">~</span><span id="c">$</span> cd SQL-Logs-Analysis/<a href="https://github.com/shehryarbajwa/Logs_Analysis"> Demo </a>
-<span id="a">iOS-App-Around-Me-Virtual@sbajwa</span>:<span id="b">~</span><span id="c">$</span> cd Trivia-Game/<a href="https://github.com/shehryarbajwa/Around-Me-Virtual"> Demo </a>
+<span id="a">iOS-App-Around-Me-Virtual@sbajwa</span>:<span id="b">~</span><span id="c">$</span> cd Around-Me/<a href="https://github.com/shehryarbajwa/Around-Me-Virtual"> Demo </a>
 <span id="a">iOS-Map-View@sbajwa</span>:<span id="b">~</span><span id="c">$</span> cd Map-View/<a href="https://github.com/shehryarbajwa/Map-View-ND"> Demo </a>
 
 
