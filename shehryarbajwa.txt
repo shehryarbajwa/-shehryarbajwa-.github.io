@@ -18,7 +18,7 @@
 <span id="a">Coffee-Shop-CRM@sbajwa</span>:<span id="b">~</span><span id="c">$</span> cd Coffee-Shop-CRM/<a href="https://github.com/shehryarbajwa/Coffee-Cafe-CRM"> Demo(Github) </a>
 <span id="a">Trivia-Game@sbajwa</span>:<span id="b">~</span><span id="c">$</span> cd Trivia-Game-Docker-Kubernetes/<a href="https://github.com/shehryarbajwa/Trivia-Game"> Demo(Github) </a>
 <span id="a">Concentration-Game@sbajwa</span>:<span id="b">~</span><span id="c">$</span> cd Concentration-Game/<a href="https://concentration-sbajwa.herokuapp.com/"> Demo Live </a>
-<span id="a">Algorithms-and-Datastructures@sbajwa</span>:<span id="b">~</span><span id="c">$</span> cd Algorithms-Datastructures-Analysis/<a href="https://github.com/shehryarbajwa/Algorithms--Datastructures"> Demo(Github) </a>
+<span id="a">Algorithms-and-Datastructures@sbajwa</span>:<span id="b">~</span><span id="c">$</span> cd Algorithms/<a href="https://github.com/shehryarbajwa/Algorithms--Datastructures"> Demo(Github) </a>
 <span id="a">Arcade-Game@sbajwa</span>:<span id="b">~</span><span id="c">$</span> cd Arcade-Game/<a href="https://arcade-game-sbajwa.herokuapp.com/"> Demo Live </a>
 <span id="a">RSS-Feed@sbajwa</span>:<span id="b">~</span><span id="c">$</span> cd RSS-Feed/<a href="https://rss-feed-sbajwa.herokuapp.com/"> Demo Live </a>
 <span id="a">SQL-Logs-Analysis@sbajwa</span>:<span id="b">~</span><span id="c">$</span> cd SQL-Logs-Analysis/<a href="https://github.com/shehryarbajwa/Logs_Analysis"> Demo(Github) </a>
