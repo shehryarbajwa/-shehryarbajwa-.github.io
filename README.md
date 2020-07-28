@@ -1,1 +1,2 @@
-# shehryarbajwa.github.io
+# Portfolio site (Github Page)
+Terminal based portfolio website for Shehryar
