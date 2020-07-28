@@ -1,5 +1,5 @@
 body {
-	background-color: #1a1370
+	background-color: #000
 }
 
 #console {
@@ -15,6 +15,11 @@ body {
 a {
 	color: #0bc;
 	text-decoration: none;
+}
+
+#line_header {
+	color: rgb(255, 255, 128);
+
 }
 
 #a {

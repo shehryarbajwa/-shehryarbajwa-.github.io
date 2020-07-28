@@ -1,13 +1,49 @@
-<span id="a">Shehryar@Bajwa</span>:<span id="b">~</span><span id="c">$</span> cd CodeNerve/<!-- laglaglaglaglaglag -->About_Us
-<span id="a">Shehryar@Bajwa</span>:<span id="b">~</span><span id="c">$</span> cat <!-- laglaglaglaglaglaglaglaglag -->[your-name].txt<br/><br/>
-My favorite quote, "<span id="k">You have to trust that the dots will somehow connect in your future... The only way to do great work is to love what you do. If you haven’t found it yet, keep looking. Don’t settle. As with all matters of the heart, you’ll know when you find it... Have the courage to follow your heart and intuition. They somehow already know what you truly want to become. Everything else is secondary.</span>". <!-- sjkfhskjf -->
+<em id="line_header">Shehryar's Portfolio </em>
 
-Hey There! This is the portflio website in the skin of a terminal.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>You can see that, this is how your portfolio would look like.</p>
-<p>You can introduce yourself here.</p> <!-- bitlagbitlagbitlagbitlagbitlagbitlag -->
-<p> You can also tell what you've worked and known and what skills you have, you can also give link to your professional portfolio here<a href="link"> portfolio</a>.</p><!-- delaydelaydelaydelaydelaydelaydelay -->
-<p>Tell more about yourself. <br><br><br>Give your project links or something like that. <a href="link"> Here you go</a>.</p><!-- moredelaymoredelaymoredelaymoredelaymoredelaymoredelay-->
-<p> You can give links to other professional profiles you have on Internet, here: <br> <a href="link1">Profile1</a> <br> <a href="link2">Profile2</a> and <br> <a href="link3">Profile3</a>.</p>
+<span id="a">Shehryars-Portfolio@sbajwa</span>:<span id="b">~</span><span id="c">$</span> cd Portfolio/<!-- kjsdfhkjdhsfkjdshfkj -->About_me
+<br>
+<em id="line_header">About Me</em>
+<p>I graduated from Mcgill University in 2017 from Desautels Faculty of Management. After reading Marc Andreeseen's Software is eating the world <a href="https://a16z.com/2011/08/20/why-software-is-eating-the-world/"> article </a>, I took on the audacious challenge of learning how to code. </p>
 
-You can also give your email ID for contacting you<!-- slightdelayhere-->, feel free to send me an email at<!-- longlonglongcomment --><a href="Your email ID">Email</a>.
+<em id="line_header">Experience </em>
+<p>While I'm a proficient full stack developer, I'm deeply curious about building scalable back-end services(API Design, Microservices, Relational and noSQL databases, Authorization/Authentication and deployments to the cloud). I love building things and while hard engineering problems are often intrsincally fun to solve, I'm most attracted to solving real customer problems that have a business justification. 
 
-<p>Cheers!</p>
+<em id="line_header">Career Aspirations</em>
+<p>I'm looking for a junior individual contributor role, where I can be a part of a collaborative team from which I can learn from and gain experience with architecture and scaling.</p>
+
+
+<em id="line_header">Projects</em>
+
+<span id="a">Project-Artist-Venue-Management-System@sbajwa</span>:<span id="b">~</span><span id="c">$</span> cd Fyyur/<a href="https://fyyur-sbajwa.herokuapp.com/"> Demo</a>
+<span id="a">Coffee-Shop-CRM@sbajwa</span>:<span id="b">~</span><span id="c">$</span> cd Coffee-Shop-CRM/<a href="https://github.com/shehryarbajwa/Coffee-Cafe-CRM"> Demo </a>
+<span id="a">Trivia-Game@sbajwa</span>:<span id="b">~</span><span id="c">$</span> cd Trivia-Game-Docker-Kubernetes/<a href="https://github.com/shehryarbajwa/Trivia-Game"> Demo </a>
+<span id="a">Concentration-Game@sbajwa</span>:<span id="b">~</span><span id="c">$</span> cd Concentration-Game/<a href="https://concentration-sbajwa.herokuapp.com/"> Demo </a>
+<span id="a">Arcade-Game@sbajwa</span>:<span id="b">~</span><span id="c">$</span> cd Arcade-Game/<a href="https://arcade-game-sbajwa.herokuapp.com/"> Demo </a>
+<span id="a">RSS-Feed@sbajwa</span>:<span id="b">~</span><span id="c">$</span> cd RSS-Feed/<a href="https://rss-feed-sbajwa.herokuapp.com/"> Demo </a>
+<span id="a">SQL-Logs-Analysis@sbajwa</span>:<span id="b">~</span><span id="c">$</span> cd SQL-Logs-Analysis/<a href="https://github.com/shehryarbajwa/Logs_Analysis"> Demo </a>
+<span id="a">iOS-App-Around-Me-Virtual@sbajwa</span>:<span id="b">~</span><span id="c">$</span> cd Trivia-Game/<a href="https://github.com/shehryarbajwa/Around-Me-Virtual"> Demo </a>
+<span id="a">iOS-Map-View@sbajwa</span>:<span id="b">~</span><span id="c">$</span> cd Map-View/<a href="https://github.com/shehryarbajwa/Map-View-ND"> Demo </a>
+
+
+<em id="line_header">Online Presence</em>
+<ol>
+  <li><a href="https://github.com/shehryarbajwa">Github</a></li>
+  <li><a href="https://ca.linkedin.com/in/shehryar-bajwa">Linkedin</a></li>
+  <li><a href="https://www.goodreads.com/user/show/40383711-shehryar-bajwa">Goodreads</a></li>
+</ol>
+
+<em id="line_header">Hobbies</em>
+<ol>
+  <li>Reading Books</li>
+  <li>Sailing</li>
+  <li>Scubadiving</li>
+</ol>
+
+<em id="line_header">Contact</em>
+<ol>
+  <li><a href="mailto:shehryar.bajwa@gmail.com">Email : shehryar.bajwa@gmail.com</a></li>
+  <li>Phone: 647-804-4646</li>
+</ol>
+
+<p>My favorite quote, "<span id="k">You have to trust that the dots will somehow connect in your future... The only way to do great work is to love what you do. If you haven’t found it yet, keep looking. Don’t settle. As with all matters of the heart, you’ll know when you find it... Have the courage to follow your heart and intuition. They somehow already know what you truly want to become. Everything else is secondary.</span>". <!-- sjkfhskjf -->
+</p>
