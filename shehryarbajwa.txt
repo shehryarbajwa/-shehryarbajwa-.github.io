@@ -25,6 +25,15 @@
 <span id="a">iOS-Map-View@sbajwa</span>:<span id="b">~</span><span id="c">$</span> cd Map-View/<a href="https://github.com/shehryarbajwa/Map-View-ND"> Demo </a>
 
 
+<em id="line_header">Skills</em>
+<ol>
+  <li>Languages​:​ JavaScript, ES6+ , Python, Node.js, Swift, SQL, HTML5, TypeScript</li>
+  <li>Databases: PostgreSQL, MongoDB, Redis, CoreData, MySQL</li>
+  <li>Frameworks: Express, React, Flask, Bootstrap, Nest.js</li>
+  <li>Cloud Services:​ Firebase, AWS, Docker, Kubernetes, Amazon EKS</li>
+  <li>General Software Skills: Git, JIRA, Jenkins, Agile, SCRUM, Postman, REST</li>
+</ol>
+
 <em id="line_header">Online Presence</em>
 <ol>
   <li><a href="https://github.com/shehryarbajwa">Github</a></li>
