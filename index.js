@@ -97,8 +97,8 @@ function replaceUrls(text) {
 	}
 }
 
-Typer.speed=3;
-Typer.file="shehryarbajwa.txt"; // add your own name here..
+Typer.speed=5;
+Typer.file="shehryarbajwa.txt"; 
 Typer.init();
  
 var timer = setInterval("t();", 45);
