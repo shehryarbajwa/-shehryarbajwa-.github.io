@@ -101,7 +101,7 @@ Typer.speed=3;
 Typer.file="shehryarbajwa.txt"; 
 Typer.init();
  
-var timer = setInterval("t();", 45);
+var timer = setInterval("t();", 60);
 function t() {
 	Typer.addText({"keyCode": 123748});
 	
