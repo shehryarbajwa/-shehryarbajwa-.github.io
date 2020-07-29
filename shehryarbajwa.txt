@@ -28,9 +28,9 @@
 
 <em id="line_header">Skills</em>
 <ol>
-  <li>Languages​:​ JavaScript, ES6+ , Python, Node.js, Swift, SQL, HTML5, TypeScript</li>
+  <li>Languages​:​ JavaScript, ES6+ , Python, Node.js, Swift, SQL</li>
   <li>Databases: PostgreSQL, MongoDB, Redis, CoreData, MySQL</li>
-  <li>Frameworks: Express, React, Flask, Bootstrap, Nest.js</li>
+  <li>Frameworks: Express, React, Flask, Bootstrap</li>
   <li>Cloud Services:​ Firebase, AWS, Docker, Kubernetes, Amazon EKS</li>
   <li>General Software Skills: Git, JIRA, Jenkins, Agile, SCRUM, Postman, REST</li>
 </ol>
