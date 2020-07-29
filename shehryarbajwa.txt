@@ -9,7 +9,7 @@
 <p>While I'm a proficient full stack developer, I'm deeply curious about building scalable back-end services(API Design, Microservices, Relational and noSQL databases, Authorization/Authentication and deployments to the cloud). I love building things and while hard engineering problems are often intrsincally fun to solve, I'm most attracted to solving real customer problems that have a business justification. 
 
 <em id="line_header">Career</em>
-<p>I'm looking for a junior individual contributor role, where I can be a part of a collaborative team from which I can learn from and gain experience with architecture and scaling.</p>
+<p>I'm looking for an individual contributor role, where I can be a part of a collaborative team from which I can learn from and gain experience with architecture and scaling.</p>
 
 
 <em id="line_header">Projects</em>
