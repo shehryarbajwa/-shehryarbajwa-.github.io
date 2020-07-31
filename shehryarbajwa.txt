@@ -55,5 +55,5 @@
   <li>Phone: 647-804-4646</li>
 </ol>
 
-<p>My favorite quote, "<span id="k">You have to trust that the dots will somehow connect in your future... The only way to do great work is to love what you do. If you haven’t found it yet, keep looking. Don’t settle. As with all matters of the heart, you’ll know when you find it... Have the courage to follow your heart and intuition. They somehow already know what you truly want to become. Everything else is secondary.</span>". <!-- sjkfhskjf -->
+<p>My favorite quote, "<span id="k">You have to trust that the dots will somehow connect in your future... The only way to do great work is to love what you do. If you haven’t found it yet, keep looking. Don’t settle. As with all matters of the heart, you’ll know when you find it... Have the courage to follow your heart and intuition. They somehow already know what you truly want to become. Everything else is secondary. Stay Hungry, Stay Foolish</span>". <!-- sjkfhskjf -->
 </p>
